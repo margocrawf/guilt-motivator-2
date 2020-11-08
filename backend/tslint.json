@@ -1,0 +1,11 @@
+{
+    "semicolon": [true, "always", "ignore-interfaces"],
+    "quotemark": [true, "single", "avoid-escape"],
+    "defaultSeverity": "error",
+    "extends": [
+        "tslint:recommended"
+    ],
+    "jsRules": {},
+    "rules": {},
+    "rulesDirectory": []
+}
